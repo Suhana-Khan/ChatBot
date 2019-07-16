@@ -1,5 +1,5 @@
 from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer               #importing libarries
+from chatterbot.trainers import ListTrainer               #importing libraries
 import os                                                #importing Operating system
 
 bot=ChatBot('SUHANA')                                  #Defining the name and trainer for Chatbot
