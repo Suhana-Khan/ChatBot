@@ -2,7 +2,7 @@
 To create a ChatBot consider following the steps:
 1) install a chatterbot in your system                    //install cahtterbot in your system using the command given below
 2) get a chatterbot corpus                                //download the chatterbot corpus zip file 
-3) coding
+3) coding                                                 //start coding or use the code from file 
 4) training the chatterbot
 5) testing the chatterbot
 6) creating a UI for chatterbot
